@@ -13,6 +13,3 @@ class Solution:
             else:
                 r -= 1
         return ans
-
-s = "1"
-s.isnumeric()
